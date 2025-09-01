@@ -16,7 +16,7 @@ Celem tego jest nauka poprawnego nadawania liter, cyfr i znaków a w przysłośc
 - Pin GP28 do lewej łopatki (kropka)
 - Pin GP29 do prawej łopatki (kreska)
 - pin wspólny manipulatora do masy
-- Enkoder podłączamy do masy, 3.3V GP27, GP26
+- Enkoder podłączamy do masy, GP27, GP26
 
 **Instrukcja obsługi:**
 
