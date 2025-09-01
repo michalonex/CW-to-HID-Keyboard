@@ -1,7 +1,7 @@
 # CW-to-HID-Keyboard
 CW to HID Keyboard
 
-!(https://github.com/michalonex/CW-to-HID-Keyboard/blob/main/photo_2025-09-01_20-32-32.jpg)!
+![](https://github.com/michalonex/CW-to-HID-Keyboard/blob/main/photo_2025-09-01_20-32-32.jpg)
 
 **EN Below (soon)**
 
