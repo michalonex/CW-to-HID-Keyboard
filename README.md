@@ -1,6 +1,8 @@
 # CW-to-HID-Keyboard
 CW to HID Keyboard
 
+!(https://github.com/michalonex/CW-to-HID-Keyboard/blob/main/photo_2025-09-01_20-32-32.jpg)!
+
 **EN Below (soon)**
 
 Podczas nauki telegrafii wpadłem na pomysł zrobiena adaptera do klucza telegraficznego, ażeby to co "nadajemy", było interpretowane i wstawiane jako zwykły tekst do dowolnego okna lub edytora.
